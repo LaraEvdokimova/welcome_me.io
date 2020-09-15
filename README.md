@@ -1,1 +1,1 @@
-(https://github.com/LaraEvdokimova/photo/blob/master/photo.JPG?raw=true)
+[image](https://github.com/LaraEvdokimova/photo/blob/master/photo.JPG?raw=true) (src)
